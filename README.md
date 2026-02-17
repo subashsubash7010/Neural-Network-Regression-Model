@@ -48,12 +48,6 @@ Evaluate the model with the testing data.
 ### Register Number: 212224220109
 
 ```python
-
-```
-## Dataset Information
-
-Include screenshot of the dataset
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -131,6 +125,12 @@ plt.show()
 X_n1_1 = torch.tensor([[9]], dtype=torch.float32)
 prediction = ai_brain(torch.tensor(scaler.transform(X_n1_1), dtype=torch.float32)).item()
 print(f'Prediction: {prediction}')
+
+```
+## Dataset Information
+
+<img width="261" height="589" alt="Screenshot 2026-02-17 145931" src="https://github.com/user-attachments/assets/582aca4a-43dc-4546-9e59-2b66377c50e5" />
+
 
 ## OUTPUT :
 
