@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-<img width="1346" height="927" alt="Screenshot 2026-02-17 143147" src="https://github.com/user-attachments/assets/bed813b7-0863-4393-93cb-7add620a1dd8" />
+<img width="1325" height="867" alt="Screenshot 2026-02-18 212816" src="https://github.com/user-attachments/assets/87be118a-a110-4656-a711-c30d18027c9c" />
 
 
 ## DESIGN STEPS
